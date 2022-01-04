@@ -5,7 +5,7 @@ This is your team repository for holding standup notes and other team wide infor
 This was updated on the side branch!!
 Mahad Khalid
 
-Zach Byrski
+Zach Byrski - Found the side branch!  woooooo!!!
 
 Bobby Floyd (Scrummaster)
 
